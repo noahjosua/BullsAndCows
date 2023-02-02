@@ -12,7 +12,7 @@ Die Anzahl der möglichen Symbole im Code muss >= der Länge des Codes sein.
 ### Troubleshoot Invalid VCS root mapping
 Bis ich den Fehler behoben habe, kann er wie folgt beseitigt werden: 
 1. klicke auf Configure...
-2. klicke auf die Spalte VCS und wähle aus dem Dropdown Menü <none> an
+2. klicke auf die Spalte VCS und wähle 'none' aus dem Dropdown Menü <none> an
 
 
 Viel Spaß!
