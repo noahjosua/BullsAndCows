@@ -6,4 +6,13 @@ Systemvariable JAVA_HOME = Pfad zum heruntergeladenen JDK 18.0.1.1 der Systemvar
 
 Anschließend die Konsole öffnen und zu dem Order ...BullsAndCows/out/artifacts/BullsAndCows_jar/ navigieren. Nun mittels java -jar BullsAndCows.jar die Anwendung starten.
 
+### Hinweise zur Eingabe
+Die Anzahl der möglichen Symbole im Code muss >= der Länge des Codes sein. 
+
+### Troubleshoot Invalid VCS root mapping
+Bis ich den Fehler behoben habe, kann er wie folgt beseitigt werden: 
+1. klicke auf Configure...
+2. klicke auf die Spalte VCS und wähle aus dem Dropdown Menü <none> an
+
+
 Viel Spaß!
